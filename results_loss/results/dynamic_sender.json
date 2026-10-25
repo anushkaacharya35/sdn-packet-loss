@@ -1,0 +1,9 @@
+{
+  "packets": 750,
+  "retransmissions": 14,
+  "failed": 0,
+  "duration_s": 15.022,
+  "mean_latency_ms": 39.91,
+  "p95_latency_ms": 41.7,
+  "goodput_pps": 49.93
+}

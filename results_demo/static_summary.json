@@ -1,0 +1,12 @@
+{
+  "unique_delivered": 199,
+  "duplicates": 0,
+  "first_pass_loss_pct": 0.0,
+  "mean_delay_ms": 10.45,
+  "loss_degraded_pct": 0.0,
+  "loss_after_recovery_pct": null,
+  "first_loss_at_s": null,
+  "alert_at_s": null,
+  "detection_time_s": null,
+  "recovery_time_s": null
+}

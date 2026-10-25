@@ -1,0 +1,5 @@
+h2 python3 receiver.py --out results/demo &
+sh sleep 1
+h1 python3 sender.py --dst 10.0.0.2 --count 1500 --out results/demo &
+sh sleep 6
+link s1 s2 down

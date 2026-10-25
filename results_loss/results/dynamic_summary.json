@@ -1,0 +1,12 @@
+{
+  "unique_delivered": 750,
+  "duplicates": 6,
+  "first_pass_loss_pct": 0.93,
+  "mean_delay_ms": 19.88,
+  "loss_degraded_pct": 17.5,
+  "loss_after_recovery_pct": 0.0,
+  "first_loss_at_s": 4.18,
+  "alert_at_s": 4.46,
+  "detection_time_s": 0.28,
+  "recovery_time_s": 0.49
+}
